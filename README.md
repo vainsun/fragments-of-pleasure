@@ -54,14 +54,6 @@ User behaviour directly influences the duration and intensity of the system resp
 
 ---
 
-## Project Structure
-
-* `sketch.js` – main interaction logic
-* `index.html` – entry file
-* `assets/` – visual resources (if applicable)
-
----
-
 ## Notes
 
 This project is an experimental prototype exploring interaction, behaviour, and attention in digital environments.
