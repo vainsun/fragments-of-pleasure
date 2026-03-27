@@ -19,7 +19,7 @@ This project visualises this phenomenon as a dynamic system, allowing users to e
 https://editor.p5js.org/realsun/sketches/qKtIWYDIH
 
 **Project Video**
-https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=49dfc8e0-da3f-4953-a037-b23e00f44a4e
+https://youtu.be/deIylxXHCLk?si=ljLVPlw-RBzeaTjI
 
 ---
 
